@@ -10,10 +10,9 @@ I'm an **Information Technology Student** from **USU** who loves working with Ja
 
 #### 📫 **How to reach me:**
 <p align="left">
-  <a href="https://steamcommunity.com/id/samcanbakar" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40"></a>
-  <a href="[https://discord.com/users/ferrr1666](https://discord.gg/hwhNxpHR)" target="_blank"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="40"></a>
+  <a href="https://steamcommunity.com/profiles/76561199240067589/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40"></a>
   <a href="https://www.linkedin.com/in/ferdyan-darwis-309138355/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"></a>
-  <a href="https://www.facebook.com/ferdyandarwis" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40"></a>
+  <a href="https://www.facebook.com/share/18GKetEXeM/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40"></a>
   <a href="https://www.instagram.com/ferdyan.__/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40"></a>
 
 </p>
