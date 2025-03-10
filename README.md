@@ -27,6 +27,18 @@ I'm an **Information Technology Student** from **USU** who loves working with Ja
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="53" height="53" />
 </div>
 
+### 🔥 **Most Popular Repositories**
+Here are some of my most popular repositories:
+
+<p align="left">
+  <a href="https://github.com/coderdestroyer/kasirSJB-Fix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderdestroyer&repo=kasirSJB-Fix&theme=radical" />
+  </a>
+  <a href="https://github.com/coderdestroyer/Praktikum-PWL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderdestroyer&repo=Praktikum-PWL&theme=radical" />
+  </a>
+</p>
+
 ### 📊 **GitHub Stats**
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=coderdestroyer&show_icons=true&theme=radical" height="165"/>
