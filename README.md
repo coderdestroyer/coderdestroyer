@@ -10,13 +10,12 @@ I'm an **Information Technology Student** from **USU** who loves working with Ja
 
 #### 📫 **How to reach me:**
 <p align="left">
-  <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40"></a>
-  <a href=""><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="40"></a>
-  <a href=""><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40"></a>
-  <a href=""><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"></a>
-  <a href=""><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40"></a>
-  <a href=""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40"></a>
-  <a href=""><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"></a>
+  <a href="https://steamcommunity.com/id/samcanbakar" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40"></a>
+  <a href="[https://discord.com/users/ferrr1666](https://discord.gg/hwhNxpHR)" target="_blank"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="40"></a>
+  <a href="https://www.linkedin.com/in/ferdyan-darwis-309138355/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"></a>
+  <a href="https://www.facebook.com/ferdyandarwis" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="40"></a>
+  <a href="https://www.instagram.com/ferdyan.__/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40"></a>
+
 </p>
 
 ### 🚀 **Tech Stack**
@@ -27,6 +26,16 @@ I'm an **Information Technology Student** from **USU** who loves working with Ja
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="53" height="53" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="53" height="53" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="53" height="53" />
+</div>
+
+### 📌 **Top Repositories**
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://github.com/coderdestroyer/coderdestroyer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderdestroyer&repo=github-readme-stats&theme=buefy" />
+  </a>
+  <a href="https://github.com/coderdestroyer/kasirSJB-Fix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderdestroyer&repo=coderdestroyer.github.io&theme=buefy" />
+  </a>
 </div>
 
 ### 📊 **GitHub Stats**
