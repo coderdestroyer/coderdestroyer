@@ -31,11 +31,11 @@ I'm an **Information Technology Student** from **USU** who loves working with Ja
 ### 📌 **Top Repositories**
 <div style="display: flex; align-items: center; gap: 20px;">
   <a href="https://github.com/coderdestroyer/coderdestroyer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderdestroyer&repo=github-readme-stats&theme=buefy" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderdestroyer&repo=github-readme-stats&theme=buefy" />
+</a>
   <a href="https://github.com/coderdestroyer/kasirSJB-Fix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderdestroyer&repo=coderdestroyer.github.io&theme=buefy" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=coderdestroyer&repo=coderdestroyer.github.io&theme=buefy" />
+</a>
 </div>
 
 ### 📊 **GitHub Stats**
