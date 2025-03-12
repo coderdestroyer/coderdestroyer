@@ -18,14 +18,17 @@ I'm an **Information Technology Student** from **USU** who loves working with Ja
 </p>
 
 ### 🚀 **Tech Stack**
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="53" height="53" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="53" height="53" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="53" height="53" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="53" height="53" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="53" height="53" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="53" height="53" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL">
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" alt="C++">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" alt="PHP">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" alt="Java">
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat" alt="Laravel">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat" alt="Figma">
+</p>
 
 ### 🔥 **Most Popular Repositories**
 Here are some of my most popular repositories:
